@@ -1,0 +1,59 @@
+{
+  "name": "Gate Keeper1027",
+  "symbol": "Skolz",
+  "description": "Skol Gatekeeper guarding the entrance to the Metaverse... ",
+  "seller_fee_basis_points": 777,
+  "image": "https://raw.githubusercontent.com/SirDrewske/NobleSkulls/main/Nobleskull1027.png",
+  "external_url": "",
+  "collection": {
+    "name": "Skol Gate Keepers",
+    "family": "LaunchMyNFT"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BKgreen"
+    },
+    {
+      "trait_type": "Gates",
+      "value": "Gate3"
+    },
+    {
+      "trait_type": "Skolz",
+      "value": "Skullred"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes2"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose3"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Hat3"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 1297,
+      "display_type": "number",
+      "max_value": 2444
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/SirDrewske/NobleSkulls/main/Nobleskull1027.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7CPh87XDdp4ADGPxHCgGiyiBQUVmLvWPrRc2tP9HQvdi",
+        "share": 100
+      }
+    ]
+  }
+}
