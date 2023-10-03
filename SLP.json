@@ -1,5 +1,5 @@
 {
-  "name": "Gate Keeper 1002",
+  "name": "Gate Keeper1002",
   "symbol": "Skolz",
   "description": "Skol Gatekeeper guarding the entrance to the Metaverse... ",
   "seller_fee_basis_points": 777,
@@ -11,15 +11,41 @@
   },
   "attributes": [
     {
-      "trait_type": "1/1",
-      "value": "SLP"
+      "trait_type": "Background",
+      "value": "BKgrey"
+    },
+    {
+      "trait_type": "Gates",
+      "value": "Gate4"
+    },
+    {
+      "trait_type": "Skolz",
+      "value": "Skullorange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes4"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose3"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Hat5"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 1698,
+      "display_type": "number",
+      "max_value": 2444
     }
   ],
   "properties": {
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/SirDrewske/NobleSkulls/main/SLP.png",
-        "type": "image/png"
+        "type": "image/jpeg"
       }
     ],
     "category": "image",
