@@ -11,34 +11,8 @@
   },
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "BKbrown"
-    },
-    {
-      "trait_type": "Gates",
-      "value": "Gate3"
-    },
-    {
-      "trait_type": "Skolz",
-      "value": "Skullwhite"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Eyes2"
-    },
-    {
-      "trait_type": "Nose",
-      "value": "Nose1"
-    },
-    {
-      "trait_type": "Hats",
-      "value": "Hat3"
-    },
-    {
-      "trait_type": "Rarity Rank",
-      "value": 1515,
-      "display_type": "number",
-      "max_value": 2444
+      "trait_type": "1/1",
+      "value": "Gamblur"
     }
   ],
   "properties": {
