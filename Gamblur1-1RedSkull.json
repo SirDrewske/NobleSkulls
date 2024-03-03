@@ -1,0 +1,32 @@
+
+  "symbol": "Skolz",
+  "description": "Skol Gatekeeper guarding the entrance to the Metaverse... ",
+  "seller_fee_basis_points": 777,
+  "image": "https://raw.githubusercontent.com/SirDrewske/NobleSkulls/main/Gamblur.png",
+  "external_url": "",
+  "collection": {
+    "name": "Skol Gate Keepers",
+    "family": "LaunchMyNFT"
+  },
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "Gamblur"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/SirDrewske/NobleSkulls/main/Gamblur.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7CPh87XDdp4ADGPxHCgGiyiBQUVmLvWPrRc2tP9HQvdi",
+        "share": 100
+      }
+    ]
+  }
+}
